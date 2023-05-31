@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "e4fb6d5e73ee4bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7061e6cd361114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b2e4cae4069bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frontend/vue/essentials/03-reactivity-fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c9536fe1668289e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9601f418f7277d00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f207faee92255fd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d2f23ac040b8be9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a3a977383d59625",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b0f22556505415f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.50152587890625,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9941d871b9c3b5ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdb2fdce1e8af333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6765c868efb7884d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "frontend/vue/essentials/03-reactivity-fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c316406277a363ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "frontend/vue/essentials/03-reactivity-fundamentals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a23994d41285fc51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8701982751d12b1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "frontend/vue/essentials/03-reactivity-fundamentals.md"
+              }
+            }
+          },
+          {
+            "id": "7cb253f85370cf7c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "25b2e4cae4069bcc",
+  "lastOpenFiles": [
+    "git/GitHub CLI.md",
+    "git/GitHub.md",
+    "git/Git, Git Flow & GitHub.md",
+    "git/Git useful commands.md",
+    "git/Git Flow.md",
+    "git/Git Commands.md",
+    "git/Git.md",
+    "devops/docker/docker-cli.md",
+    "devops/docker/docker-compose.md",
+    "devops/aws/aws-sesseion-manager.md",
+    "devops/aws/aws-ec2.md",
+    "devops/aws/rsync.md",
+    "frontend/vue/essentials/02-template-syntax.md",
+    "frontend/vue/essentials/01-creating-an-application.md",
+    "frontend/HTML 9e822f17b53f4bde9092753ad322d24a.md",
+    "excalidraw/Drawing 2023-05-10 18.00.11.excalidraw.md",
+    "excalidraw/Drawing 2023-04-23 20.47.37.excalidraw.md",
+    "javascript/A diferença entre valor e referência em JavaScript.md",
+    "javascript/Promises.md",
+    "javascript/Prototype.md",
+    "javascript/Path.md",
+    "javascript/O que é Call Stack e Memory Heap.md",
+    "javascript/Closures.md",
+    "javascript/Array.md",
+    "linux/Sound.md",
+    "linux/Network.md",
+    "Pasted image 20230510191556.png",
+    "Pasted image 20230528223019.png",
+    "frontend/vue/essentials",
+    "vue/Essentials",
+    "vue/1-getting-started",
+    "frontend/vue",
+    "devops/aws",
+    "excalidraw",
+    "Untitled.canvas",
+    "canvas",
+    "templates",
+    "devops/docker",
+    "apps/Untitled.canvas",
+    "vault"
+  ]
+}
