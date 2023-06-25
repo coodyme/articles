@@ -3,29 +3,50 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Frontend",
+      "query": "tag:#react",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Backend",
+      "query": "tag:#aws",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#devops",
+      "query": "tag:#typescript",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 12528
+      }
+    },
+    {
+      "query": "tag:#backend",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#databases",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3244050855054984,
+  "scale": 0.6989606412938243,
   "close": false
 }
