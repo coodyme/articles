@@ -1,1 +1,0 @@
-# Applying UML and Patterns

@@ -1,7 +1,0 @@
-# NPM
-
-# Yarn
-
-# PNPM
-
-#node

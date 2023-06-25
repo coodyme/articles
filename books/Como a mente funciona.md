@@ -1,1 +1,0 @@
-# Como a mente funciona

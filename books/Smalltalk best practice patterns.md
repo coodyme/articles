@@ -1,1 +1,0 @@
-# Smalltalk best practice patterns

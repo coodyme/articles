@@ -1,1 +1,0 @@
-# O homem que calculava

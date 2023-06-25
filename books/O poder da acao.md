@@ -1,1 +1,0 @@
-# O poder da acao

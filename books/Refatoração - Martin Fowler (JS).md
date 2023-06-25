@@ -1,1 +1,0 @@
-# Refatoração - Martin Fowler (JS)

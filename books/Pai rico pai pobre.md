@@ -1,1 +1,0 @@
-# Pai rico pai pobre
