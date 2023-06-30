@@ -1,25 +1,5 @@
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+# articles
 
-List
+This is a collection of articles I've been writing for [COODY](https://coody.me/articles) articles section.
 
-- Item 0
-- Item 1
-- Item 2
-
-Checkbox
-
-- [x] Item 0
-- [ ] Item 1
-
-`Code`
-
-```shell
-sudo apt-get install
-```
-
->Block Quote
+You can download [Obisidian](https://obsidian.md/) and open this repository as a Obisidian Vault or access directly in the browser for better reading.
